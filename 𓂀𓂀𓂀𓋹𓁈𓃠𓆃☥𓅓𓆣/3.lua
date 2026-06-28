@@ -1,0 +1,10 @@
+local l=o("TextButton");
+l.Size=UDim2.new(0,150,0,40);
+l.Position=UDim2.new(0.5,-75,0.5,-20);
+l.BackgroundColor3=Color3.fromRGB(70,70,255);
+l.BorderSizePixel=0;
+l.Text="Fly ON";
+l.TextColor3=Color3.fromRGB(255,255,255);
+l.TextSize=16;
+l.Font=Enum.Font.SourceSansBold;
+l.Parent=i;
