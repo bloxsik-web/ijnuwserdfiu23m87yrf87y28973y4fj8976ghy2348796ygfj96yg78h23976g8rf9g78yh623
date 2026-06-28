@@ -1,0 +1,9 @@
+local C=o("TextLabel");
+C.Size=UDim2.new(1,0,0,20);
+C.Position=UDim2.new(0,0,1,-55);
+C.BackgroundTransparency=1;
+C.Text="WASD - Move | Space - Up | Ctrl - Down | F - Toggle";
+C.TextColor3=Color3.fromRGB(200,200,200);
+C.TextSize=11;
+C.Font=Enum.Font.SourceSans;
+C.Parent=i;
