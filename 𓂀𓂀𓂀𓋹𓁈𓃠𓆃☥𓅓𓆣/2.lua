@@ -1,0 +1,12 @@
+local a=o("UICorner");a.CornerRadius=UDim.new(0,8);a.Parent=i;
+local s=o("TextLabel");
+s.Size=UDim2.new(1,0,0,30);
+s.Position=UDim2.new(0,0,0,0);
+s.BackgroundColor3=Color3.fromRGB(45,45,45);
+s.BackgroundTransparency=0.1;
+s.BorderSizePixel=0;
+s.Text="Test GUI - Fly";
+s.TextColor3=Color3.fromRGB(255,255,255);
+s.TextSize=18;
+s.Font=Enum.Font.SourceSansBold;
+s.Parent=i;
