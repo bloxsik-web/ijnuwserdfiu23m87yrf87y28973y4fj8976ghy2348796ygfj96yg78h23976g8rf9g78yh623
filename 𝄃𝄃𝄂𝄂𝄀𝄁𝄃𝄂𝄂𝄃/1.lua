@@ -1,0 +1,9 @@
+local u=o("TextLabel");
+u.Size=UDim2.new(1,0,0,25);
+u.Position=UDim2.new(0,0,1,-30);
+u.BackgroundTransparency=1;
+u.Text="Status: OFF";
+u.TextColor3=Color3.fromRGB(255,100,100);
+u.TextSize=14;
+u.Font=Enum.Font.SourceSans;
+u.Parent=i;
